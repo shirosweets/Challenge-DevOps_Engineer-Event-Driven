@@ -1,4 +1,4 @@
-# 📜 REGLAS DEL CHALLENGE “El Guardián del Pipeline - Rescatando la Infraestructura Rota en AWS”
+# 📜 REGLAS DEL CHALLENGE “El Guardián del Sistema - Rescatando la Infraestructura Rota en AWS”
 
 **Este no es un examen**. Es una oportunidad para demostrar **cómo piensas**, cómo resuelves problemas reales de arquitectura e infraestructura, y **cómo aplicas tus conocimientos actuales en un entorno controlado.**
 

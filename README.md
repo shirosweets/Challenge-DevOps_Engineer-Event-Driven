@@ -1,4 +1,4 @@
-# ⚡ CHALLENGE: “El Guardián del Pipeline - Rescatando la Infraestructura Rota en AWS”
+# ⚡ CHALLENGE: “El Guardián del Sistema - Rescatando la Infraestructura Rota en AWS”
 
 **Resumen del desafío**
 
@@ -13,7 +13,7 @@ Vas a poder leer más al respecto:
 > [!NOTE]
 > Lee primero el enunciado y las reglas. Trabaja en tu propio fork y documenta lo que haces en el `README.md` de tu entrega.
 
-“[El Guardián del Pipeline - Rescatando la Infraestructura Rota en AWS](https://github.com/shirosweets/Challenge-DevOps_Engineer-Event-Driven)” © 2026 by [Valentina S. Vispo](https://linkedin.com/in/valentina-solange-vispo) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+“[El Guardián del Sistema - Rescatando la Infraestructura Rota en AWS](https://github.com/shirosweets/Challenge-DevOps_Engineer-Event-Driven)” © 2026 by [Valentina S. Vispo](https://linkedin.com/in/valentina-solange-vispo) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 ## LICENSE: CC BY-NC-SA 4.0
 
